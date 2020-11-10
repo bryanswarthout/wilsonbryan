@@ -286,7 +286,7 @@
       opacity: 0.4;
     }
     80% {
-      opacity; 0.3;
+      opacity: 0.3;
     }
     90% {
       opacity: 0.2;
@@ -338,7 +338,7 @@
       opacity: 0.3;
     }
     80% {
-      opacity; 0.2;
+      opacity: 0.2;
     }
     90% {
       opacity: 0.1;
